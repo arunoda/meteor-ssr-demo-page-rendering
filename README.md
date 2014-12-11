@@ -5,4 +5,4 @@
 
 This is created with the [`meteorhacks:ssr`](https://atmospherejs.com/meteorhacks/ssr) package.
 
-[![Server Side Render Demo](https://cldup.com/arVB3F7Sck.png)](http://server-rendered.meteor.com/)
+[![Server Side Render Demo](https://cldup.com/MM8S3759Vz.png)](http://server-rendered.meteor.com/)

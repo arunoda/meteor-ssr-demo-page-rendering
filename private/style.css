@@ -3,6 +3,21 @@ body, h1, h2, h3, h4, ul, li, a {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   margin: 50px 50px;
+}
+
+
+#add {
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+  margin-top: 50px;
+}
+
+.small {
+  font-size: 13px;
 }
